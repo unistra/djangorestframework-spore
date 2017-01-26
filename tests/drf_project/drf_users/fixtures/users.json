@@ -1,0 +1,92 @@
+[
+{
+ "model": "auth.user",
+ "pk": 1,
+ "fields": {
+  "email": "tt@app.com",
+  "password": "",
+  "username": "tt",
+  "is_superuser": false,
+  "first_name": "Titi",
+  "is_active": true,
+  "user_permissions": [],
+  "last_name": "Toto",
+  "last_login": null,
+  "date_joined": "2017-01-22T13:21:36.810Z",
+  "groups": [],
+  "is_staff": false
+ }
+},
+{
+ "model": "auth.user",
+ "pk": 2,
+ "fields": {
+  "email": "pp@app.com",
+  "password": "",
+  "username": "pp",
+  "is_superuser": false,
+  "first_name": "Pipi",
+  "is_active": true,
+  "user_permissions": [],
+  "last_name": "Popo",
+  "last_login": null,
+  "date_joined": "2017-01-22T13:21:36.831Z",
+  "groups": [],
+  "is_staff": false
+ }
+},
+{
+ "model": "auth.user",
+ "pk": 3,
+ "fields": {
+  "email": "cc@app.com",
+  "password": "",
+  "username": "cc",
+  "is_superuser": false,
+  "first_name": "Cici",
+  "is_active": true,
+  "user_permissions": [],
+  "last_name": "Coco",
+  "last_login": null,
+  "date_joined": "2017-01-22T13:21:36.852Z",
+  "groups": [],
+  "is_staff": false
+ }
+},
+{
+ "model": "auth.user",
+ "pk": 4,
+ "fields": {
+  "email": "bb@app.com",
+  "password": "",
+  "username": "bb",
+  "is_superuser": true,
+  "first_name": "Bibi",
+  "is_active": true,
+  "user_permissions": [],
+  "last_name": "Bobo",
+  "last_login": null,
+  "date_joined": "2017-01-22T13:21:36.866Z",
+  "groups": [],
+  "is_staff": true
+ }
+},
+{
+ "model": "auth.user",
+ "pk": 5,
+ "fields": {
+  "email": "zz@app.com",
+  "password": "",
+  "username": "zz",
+  "is_superuser": true,
+  "first_name": "Zizi",
+  "is_active": true,
+  "user_permissions": [],
+  "last_name": "Zozo",
+  "last_login": null,
+  "date_joined": "2017-01-22T13:21:36.875Z",
+  "groups": [],
+  "is_staff": true
+ }
+}
+]
